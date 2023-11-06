@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eray Özhan
+### Hi there 👋, **I'm Eray Özhan**
 #### Computer Engineer
 
 Skills: HTML / CSS / JS
